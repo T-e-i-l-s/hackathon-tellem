@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Тюбетей",
+    "description": "Современное кафе татарской кухни",
+    "imageUrl": "https://tubatay.com/img/guide.00fe4a95.png",
+    "url": "https://yandex.ru/maps/43/kazan/chain/tjubetej/154830905095/?ll=49.095160%2C55.788416&sctx=ZAAAAAgBEAAaKAoSCRTrVPmejUhAEdcyGY7n5UtAEhIJrRiuDoC40j8RNExtqYO8uj8iBgABAgMEBSgKOABAK0gBYh5yZWxldl9leHBlcmltZW50PXNpbWlsYXJzX2V4cDFiJ3JlbW92ZV9zbmlwcGV0PXJlbGF0ZWRfYWR2ZXJ0c18xb3JnLzEueGoCcnWdAc3MzD2gAQCoAQC9AdnBBbnCAUL5iMKu5QHOtND47wLSmMGPzQal%2BvL%2BhwL3otj0uALfh7SGtgWR4%2B%2BA%2BAPXycSoqgLM8oSxngHF%2FYjaxAOr84ruswSCAhsoKGNoYWluX2lkOigxNTQ4MzA5MDUwOTUpKSmKAgCSAgCaAgxkZXNrdG9wLW1hcHOqAgwxNTQ4MzA5MDUwOTWwAgE%3D&sll=49.095160%2C55.788416&sspn=0.391359%2C0.139760&z=11.58"
+  },
+  {
+    "name": "KSTB",
+    "description": "Татарский фаст-фуд",
+    "imageUrl": "https://kstbcafe.ru/media/2024/07/24/%D0%90%D1%8D%D1%80%D0%BE%D0%BF%D0%BE%D1%80%D1%82_1M97H6t.jpg",
+    "url": "https://yandex.ru/maps/43/kazan/chain/kystybiy/143952405876/?ll=49.106414%2C55.796129&sll=49.106414%2C55.796129&sspn=0.282898%2C0.113336&z=12"
+  },
+  {
+    "name": "Городская панорама",
+    "description": "Музей истории столицы",
+    "imageUrl": "https://e-kazan.ru/upload/redactor/images/3170f82fef5b5a717a25193250d5a7a1.jpg",
+    "url": "https://yandex.ru/maps/org/gorodskaya_panorama/185327458287/?ll=49.114171%2C55.796150&z=13.83"
+  }
+]

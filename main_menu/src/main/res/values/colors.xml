@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="background">#F2F2F2</color>
+    <color name="secondary_background">#FFFFFF</color>
+    <color name="ternary_background">#EDEDED</color>
+    <color name="green_background">#D8FFEF</color>
+    <color name="orange_background">#FFEAD8</color>
+    <color name="red_background">#FFD8D8</color>
+    <color name="green_fade">#91FFD3</color>
+    <color name="red_fade">#FF9191</color>
+
+    <!--  Content  -->
+    <color name="content">#040404</color>
+    <color name="secondary_content">#737373</color>
+
+    <!-- Additional -->
+    <color name="white">#FFFFFF</color>
+    <color name="orange">#FFB938</color>
+    <color name="green">#1E8960</color>
+    <color name="blue">#3863FF</color>
+</resources>

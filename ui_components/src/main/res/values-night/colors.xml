@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="background">#161616</color>
+    <color name="secondary_background">#262626</color>
+    <color name="ternary_background">#333333</color>
+
+    <!--  Content  -->
+    <color name="content">#EDEDED</color>
+    <color name="secondary_content">#A4A4A4</color>
+</resources>

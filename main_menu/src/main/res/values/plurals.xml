@@ -1,0 +1,8 @@
+<resources>
+    <plurals name="home_screen_duration_minutes">
+        <item quantity="one">%d минута</item>
+        <item quantity="few">%d минуты</item>
+        <item quantity="many">%d минут</item>
+        <item quantity="other">%d минут</item>
+    </plurals>
+</resources>

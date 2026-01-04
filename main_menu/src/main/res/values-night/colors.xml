@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="background">#161616</color>
+    <color name="secondary_background">#262626</color>
+    <color name="ternary_background">#333333</color>
+    <color name="green_background">#2C3832</color>
+    <color name="orange_background">#38302C</color>
+    <color name="red_background">#3A2C2C</color>
+    <color name="green_fade">#3F6F5C</color>
+    <color name="red_fade">#814141</color>
+
+    <!--  Content  -->
+    <color name="content">#EDEDED</color>
+    <color name="secondary_content">#A4A4A4</color>
+</resources>

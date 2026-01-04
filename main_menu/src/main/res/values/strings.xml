@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--  Common  -->
+    <string name="common_completed">Пройдено</string>
+    <string name="common_ai_chat_title">Салават</string>
+    <string name="common_ai_chat_description">ИИ-ассистент для практики языка</string>
+    <string name="common_tatar_places_title">Без татарча сөйләшәбез</string>
+    <string name="common_tatar_places_description">Заведения, где обслуживают на татарском</string>
+
+    <!-- Salavat (Ai chat) -->
+    <string name="salavat">Салават</string>
+    <string name="salavat_start_text">Начните диалог, отправив сообщение</string>
+    <string name="salavat_input_placeholder">Введите текст</string>
+    <string name="salavat_is_writing">Салават печатает…</string>
+
+    <!-- Home -->
+    <string name="home_success_rate">Правильных ответов</string>
+    <string name="home_services">Практика</string>
+    <string name="home_courses">Курсы</string>
+    <string name="home_block_1">Татар баласы</string>
+    <string name="home_block_1_description">Для начинающих</string>
+    <string name="home_block_2">Укучы</string>
+    <string name="home_block_2_description">Для продолжающих</string>
+    <string name="home_block_3">Яшьләр</string>
+    <string name="home_block_3_description">Для опытных</string>
+    <string name="home_block_4">Җитлеккәннәр</string>
+    <string name="home_block_4_description">Для начинающих</string>
+    <string name="home_empty">Курсов пока нет</string>
+
+    <!-- Gamification -->
+    <string name="gamification_days_streak">День стрик</string>
+    <string name="gamification_experience">Опыт</string>
+    <string name="gamification_experience_grammar">Грамматика</string>
+    <string name="gamification_experience_communication">Коммуникация</string>
+    <string name="gamification_experience_vocabulary">Словарный запас</string>
+
+    <!-- Course details -->
+    <string name="course_details_start_lesson">Пройти урок</string>
+    <string name="course_details_flashcards">Карточки</string>
+    <string name="course_details_practise">Полезные материалы</string>
+    <string name="course_details_game">Игра</string>
+    <string name="course_details_test">Тест</string>
+
+    <!--  Lesson  -->
+    <string name="lesson_salavat">Салават</string>
+    <string name="lesson_correct">Верно!</string>
+    <string name="lesson_incorrect">Не верно</string>
+    <string name="lesson_next">Дальше</string>
+
+    <!-- Practice -->
+    <string name="practice_title">Полезные материалы</string>
+</resources>
